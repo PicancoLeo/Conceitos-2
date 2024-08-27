@@ -1,0 +1,12 @@
+Data Center é a instalação física que armazena os dados digitais de qualquer empresa. Pode ser de uma empresa com um galpão, ou pode ser uma empresa que só tenha a finalidade de alugar um espaço com data center.
+A LGPD obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas e a necessidade de um cuidado especial com a administração do Data Center. A LGPD requer que as instituições: tenham mais atenção com o mapeamento dos dados, tenham um maior rigor com a política de acesso aos ambientes físicos e virtuais, e que tenham um monitoramento mais preciso.
+O Controlador é o agente responsável por determinar o propósito e o meio pelo qual se ocorrerá o tratamento dos dados. 
+O Operador é o agente que recebe as delegações do Controlador acerca do meio de tratamento dos dados. Assim, é um agente que pode executar o tratamento de dados em nome do Controlador, seguindo instruções emanadas por ele e vinculando-se a estas instruções, não possuindo autonomia ou ingerência sobre decisões essenciais relacionadas ao propósito da atividade de tratamento.
+Formato de arquivo especificam como as informações são codificadas.
+Formato de arquivo de dados proprietários diz que só pode ser usado pelo programa que gerou o arquivo. Na prática, os donos dos formatos de arquivos de dados proprietários são as empesas. Para estes serem abertos, dependem de ordem legal.
+Formato de arquivo de dados abertos armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas
+A grande diferença é que a especificação do formato de arquivo proprietário é de propriedade da empresa, e ela dita se você pode usar ou não. No formato de arquivo aberto é permitido o acesso livre ao seu conteúdo.
+Exemplos de formato de arquivos abertos: .docx , .pdf , .odt , .html , .csv , .epub , .pptx , .xlsx , .ogg
+Exemplos de formato de arquivos proprietários: .doc , .pdf , .psd , .aac , .ppt , .xls
+Dados públicos são informações e conjuntos de dados que são fornecidos pelo governo e que não tem restriçao de privacidade.
+Estes são relacionados aos formatos abertos pois a divulgação dos dados públicos são realizados em formato de dados abertos.
