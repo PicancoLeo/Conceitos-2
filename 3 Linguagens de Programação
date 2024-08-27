@@ -1,0 +1,32 @@
+As 3 linguagens de programação são a Java, Php,e C#.
+Enquanto a linguagem Java é utilizada em dispositivos embarcados, ou seja, dispositivos do cotidiano como celular e mini laptops, a linguagem Php é utilizada em páginas web, do lado do servidor, embutida nos documentos HTML. Já, a linguagem C# permite os mesmos recursos das outras linguagens e, ainda, oferece criar aplicativos para Android, iOS e Windows Phone no mesmo projeto. Isso significa que é possível reaproveitar o código e focar apenas em linguagem enquanto cria recursos usando plataformas diferentes.
+Java:
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("O Mais Querido do Mundo");
+    }
+}
+
+Php:
+
+<?php
+
+echo "O Mais Querido do Mundo\n";
+
+C#
+
+using System;
+
+namespace MyCompiler {
+    class Program {
+        public static void Main(string[] args) {
+            Console.WriteLine("O Mais Querido do Mundo");
+        }
+    }
+}
