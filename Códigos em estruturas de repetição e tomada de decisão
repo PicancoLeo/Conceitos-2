@@ -1,0 +1,22 @@
+Estrutura de tomada de decisão:
+
+peso = float(input("Digite o peso do lutador em kg: "))
+
+if peso <= 56.7:
+    categoria = "Peso-mosca"
+elif peso <= 61.2:
+    categoria = "Peso-galo"
+elif peso <= 65.7:
+    categoria = "Peso-pena"
+else:
+    categoria = "Categoria acima de Peso-pena"
+
+print(f"A categoria do lutador é: {categoria}")
+
+
+Estrutura de repetição:
+
+times = ["Flamengo", "Vasco", "Botafogo", "Fluminense"]
+
+for time in times:
+    print(f"Time: {time}")
