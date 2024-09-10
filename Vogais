@@ -1,0 +1,14 @@
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = ""
+    
+    for caractere in texto:
+        if caractere in vogais:
+            vogais_encontradas += caractere
+    
+    print("Vogais:", vogais_encontradas)
+
+palavra = "O Mais Querido do Mundo"
+imprimir_vogais(palavra)
+
+Vogais: Oaiueioouo
